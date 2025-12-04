@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+%7C+Data+Scientist;Entrepreneur+Building+Impactful+Ideas;ML+Projects+%26+Real+World+Solutions&font=Bold%20Code&center=true&color=30F050&pause=2000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist;Android+Developer;Backend Developer&font=Bold%20Code&center=true&color=30F050&pause=2000">
   </a>
 </p>
 
