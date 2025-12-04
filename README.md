@@ -1,94 +1,78 @@
-# 👋 Hi, I'm Abdo Baheeg
+<p align="center">
+    <a href="https://gh-most-followed.pages.dev/egypt">
+      <img src="https://img.shields.io/badge/AI%20Engineer%20%7C%20Entrepreneur-272730?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a> &nbsp;
+    <a href="https://committers.top/egypt">
+      <img src="https://img.shields.io/badge/Data%20Science%20%26%20ML%20Projects-272730?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a>
+</p>
 
-Welcome to my GitHub profile! I'm a passionate **software engineer**, **AI learner**, and **mobile & backend developer** always working on exciting projects across **Flutter**, **AI/ML**, **Verilog**, **C++**, **Kotlin**, and more.
+<h1 align="center">Hi, I'm Abdelrahman Bakr Ghazy</h1>
 
-I love building real-world applications, exploring new technologies, and sharing my learning journey.
+<h2 align="center">AI Engineer | Machine Learning Practitioner | Entrepreneur</h2>
+<br>
 
----
+<p align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+%7C+Data+Scientist;Entrepreneur+Building+Impactful+Ideas;ML+Projects+%26+Real+World+Solutions&font=Bold%20Code&center=true&color=30F050&pause=2000">
+  </a>
+</p>
 
-## 🚀 About Me
+<p align="center">
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=abdo-ghg&style=flat&color=3010A0" style="height:30px; object-fit:contain;"/>
+  </a>
+</p>
 
-* 🎓 Engineering Student @ **Ain Shams University**
-* 🤖 Interested in **AI**, **Cybersecurity**, and **Computer Architecture**
-* 📱 Mobile Development using **Flutter** & **Kotlin**
-* ⚙️ Experience with **C++**, **Java**, **Dart**, **Python**, **Verilog**, **VHDL**
-* 🧪 Currently working on: AI projects, processor design, backend learning, and more!
-
----
-
-## 🛠️ Tech Stack
-
-### **Languages**
-
-`C++` `Java` `Python` `Dart` `Kotlin` `JavaScript` `Verilog` `VHDL`
-
-### **Frameworks & Tools**
-
-`Flutter` `Android Studio` `VS Code` `Git` `GitHub` `Node.js` `.NET` `ModelSim` `Xilinx ISE`
-
-### **Areas of Work**
-
-* 📱 Mobile App Development
-* 🤖 Machine Learning & AI
-* 🧩 Data Structures & Algorithms
-* 🔐 Cybersecurity Basics
-* 💻 Computer Architecture & Processors
-* 🖥️ Backend (learning modern stack)
+<p align="center">
+    <a href="YOUR_CV_LINK">
+      <img src="https://img.shields.io/badge/My%20CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/></a> &nbsp;
+    <a href="YOUR_PORTFOLIO_LINK">
+      <img src="https://img.shields.io/badge/My%20Portfolio-003580?style=flat-square&logo=linkfire&logoColor=white" style="height:34px; object-fit:contain;"/></a>
+</p>
 
 ---
 
-## 📌 Featured Projects
+### 📤 Connect With Me
 
-### **🆘 First Aid Hero**
-
-A cross-platform Flutter app designed to teach first aid effectively.
-
-### **⚙️ MIPS-like Processor (Single-Cycle & Pipeline)**
-
-Designed using Verilog, with hazard detection & forwarding.
-
-### **📊 Employee Data Analyzer (C++)**
-
-A full data-processing system with filtering, statistics, and reporting.
-
-### **🤖 Machine Learning Regression Models**
-
-Part of my AI coursework using Python.
-
-More coming soon... 🚀
+<p align="left">
+  <a href="mailto:YOUR_EMAIL"><img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png" height="50"/></a> &nbsp;
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
+  <a href="https://github.com/abdo-ghg"><img src="https://cdn-icons-png.flaticon.com/256/733/733553.png" height="50"/></a>
+</p>
 
 ---
 
-## 📈 GitHub Stats
+### 🛠️ Tech Stack & Core Skills
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdo-Baheeg\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdo-Baheeg\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-</div>
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,cs,html,css,js,sql,git,github,tensorflow,sklearn,pandas,numpy&perline=7" style="height:113px;"/>
+</p>
 
 ---
 
-## 🐍 Watch the Snake Eat My Contributions!
+### 🚀 About Me
 
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/Abdo-Baheeg/Abdo-Baheeg/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## 📫 Reach Me
-
-* 💼 LinkedIn: *Add your LinkedIn link here*
-* ✉️ Email: *Add your email here*
-* 🌐 Portfolio: *Add your website if you have one*
+* AI Engineer & Computer Science student at **Ain Shams University – AI Major**.
+* Specializing in **Machine Learning, Data Analysis, and building intelligent digital products**.
+* Entrepreneur working on **robotics, super apps, education platforms, and smart systems**.
+* Volunteered at **UN-Habitat WUF'12**, USAID camps, Youth Scope, and national tech initiatives.
+* Passionate about learning, solving problems, and adding value to any team or community I join.
 
 ---
 
-### ⭐ If you like my work, consider giving a star to my repositories!
+### 🧠 Highlight Projects
 
-Thanks for visiting my profile! 🙌
+* **C++ Metro System Simulation** – Metro routing engine + chat-style UI.
+* **Tanweer – Salam Hack 2025** – AI-powered learning platform (GenAI + VR + interactive content).
+* **Rain-to-Electricity Concept** – Sustainable engineering project.
+* **Restaurant Website** – Fully dynamic, categories + cart logic (HTML/CSS/JS).
+* **Pacman Game** – Algorithms + DS implementation.
+* **.NET Coursera System** – Course platform simulation.
+* **Machine Learning Projects** – Classification, clustering, prediction, EDA, and model evaluation.
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/A-Hemeda/A-Hemeda/blob/output/snake-dark.svg"/>
+</p>
